@@ -7,12 +7,11 @@ This is an application that allows users to post their projects and other users 
 Michael Kipkorir Cheruiyot
 
 ## Behaviour Driven Development(BDD)
-BEHAVIOUR	OUTPUT
-User loads welcome page	User will register the login
-Enter edit profile	User will create profile
-Click upload picture	User will be taken to a page where they are able to upload a picture
-On upploading an image	Image will be displayed and other users can like and comment on it
-
+| BEHAVIOUR 	| OUTPUT 	|
+|-------------------------	|----------------------------------------------------------------------	|
+| User loads welcome page 	| User will register the login 	|
+| Enter edit profile 	| User will create profile 	|
+| Upload project 	| User will be taken to a page where they are able to upload a project 	|
 ## Project Setup instructions
 
 Use the following commands to use this project.
