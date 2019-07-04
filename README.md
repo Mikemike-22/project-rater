@@ -38,7 +38,7 @@ MD Bootstrap
 Django Framework
 
 ## Link to live site
-Here is a link to the live site 
+Here is a link to the live site https://project-rater20.herokuapp.com/
 
 ## Contacts
 contact me via email mikor22@gmail.com for any issues or recommendations
