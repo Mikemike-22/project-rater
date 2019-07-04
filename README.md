@@ -37,11 +37,11 @@ Postgresql
 MD Bootstrap
 Django Framework
 
-Link to live site
-Here is a link to the live site https://insta1in2.herokuapp.com/
+## Link to live site
+Here is a link to the live site 
 
-Contacts
+## Contacts
 contact me via email mikor22@gmail.com for any issues or recommendations
 
-License & Copyright information
+## License & Copyright information
 Copyright (c) 2019 Michael Kipkorir MIT License
