@@ -6,7 +6,7 @@ This is an application that allows users to post their projects and other users 
 
 Michael Kipkorir Cheruiyot
 
-Behaviour Driven Development(BDD)
+## Behaviour Driven Development(BDD)
 BEHAVIOUR	OUTPUT
 User loads welcome page	User will register the login
 Enter edit profile	User will create profile
